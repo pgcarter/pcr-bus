@@ -1,2 +1,2 @@
 # pcr-bus
-test repo for github release script test
+test repo for github release script
